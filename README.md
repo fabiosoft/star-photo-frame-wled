@@ -10,7 +10,7 @@ Cornice foto smart (DIY) con controllo WiFi, telaio di legno 15X20 cm, Noce. Bas
 ![](grafica/Etichetta.png)
 ![](imgs/IMG_9766-min.jpg)
 
-2. Utilizzare un dispositivo WiFi per connettersi al punto di accesso STELLE-AP utilizzando la password predefinita "stelle". Puoi anche eseguire la scansione di questo codice QR:
+2. Utilizzare un dispositivo WiFi per connettersi al punto di accesso STELLE-AP utilizzando la password predefinita "wled1234". Puoi anche eseguire la scansione di questo codice QR:
 
 ![](grafica/STELLE-AP-qrcode.png)
 
